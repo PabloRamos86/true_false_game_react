@@ -1,7 +1,7 @@
 {
 	"name": "Detector de noticias falsas sobre salud",
 	"type_app_text": "health",
-	"initial_text": "¿Sabrías decir si las siguientes noticias son sobre el cáncer verdaderas o falsas? Aprende a distinguirlas, no juegues con tu salud",
+	"initial_text": "¿Sabrías decir si las siguientes noticias son sobre el cáncer verdaderas o falsas? Distínguelas, no juegues con tu salud",
 	"instructions": "Marca verdadero o falso para cada una de las noticias propuestas. Irás obteniendo una puntuación según cuantas aciertes.",
 	"with_reset_button": false,
 	"with_fullscreen": true,
@@ -40,10 +40,10 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
+			"path": "https://www.elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
 			"type": "iframe",
 			"source_name": "Aceite de oliva para curar el cáncer",
-			"source_url": "https://elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
+			"source_url": "https://www.elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
 			"secure": false,
 			"true_or_false": false,
 			"score": 10,
@@ -100,7 +100,7 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://curacancernatural.org/tomate/",
+			"path": "https://www.curacancernatural.org/tomate/",
 			"type": "iframe",
 			"source_name": "El tomate cura el cáncer",
 			"source_url": "https://curacancernatural.org/tomate/",
@@ -112,7 +112,7 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://diarioespana.com/sociedad/calentar-comida-en-recipientes-de-plastico-causa-cancer",
+			"path": "https://www.diarioespana.com/sociedad/calentar-comida-en-recipientes-de-plastico-causa-cancer",
 			"type": "iframe",
 			"source_name": "Calentar el plástico en el microondas produce cáncer",
 			"source_url": "https://diarioespana.com/sociedad/calentar-comida-en-recipientes-de-plastico-causa-cancer",
@@ -124,7 +124,7 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://noticias.universia.es/cultura/noticia/2015/09/03/1130717/demuestran-coca-cola-aliado-combatir-cancer.html",
+			"path": "https://www.noticias.universia.es/cultura/noticia/2015/09/03/1130717/demuestran-coca-cola-aliado-combatir-cancer.html",
 			"type": "iframe",
 			"source_name": "Cocacola como aliado para tratar el cáncer",
 			"source_url": "https://www.noticias.universia.es/cultura/noticia/2015/09/03/1130717/demuestran-coca-cola-aliado-combatir-cancer.html",
