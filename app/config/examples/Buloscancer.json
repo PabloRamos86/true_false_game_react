@@ -40,10 +40,10 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://www.elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
+			"path": "http://www.elmundo.es/salud/2015/09/14/55f676e822601d6c418b456f.html",
 			"type": "iframe",
 			"source_name": "Aceite de oliva para curar el cáncer",
-			"source_url": "https://www.elcorreodelsol.com/articulo/el-aceite-de-oliva-previene-el-cancer",
+			"source_url": "http://www.elmundo.es/salud/2015/09/14/55f676e822601d6c418b456f.html",
 			"secure": false,
 			"true_or_false": false,
 			"score": 10,
@@ -112,10 +112,10 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://www.diarioespana.com/sociedad/calentar-comida-en-recipientes-de-plastico-causa-cancer",
+			"path": "https://actualidad.rt.com/ciencias/183855-calentar-comida-recipientes-plasticos-microondas-cancer",
 			"type": "iframe",
 			"source_name": "Calentar el plástico en el microondas produce cáncer",
-			"source_url": "https://diarioespana.com/sociedad/calentar-comida-en-recipientes-de-plastico-causa-cancer",
+			"source_url": "https://actualidad.rt.com/ciencias/183855-calentar-comida-recipientes-plasticos-microondas-cancer",
 			"secure": false,
 			"true_or_false": false,
 			"score": 10,
@@ -124,10 +124,10 @@
 			"feedback_sitename": "saludsinbulos"
 		},
 		{
-			"path": "https://www.noticias.universia.es/cultura/noticia/2015/09/03/1130717/demuestran-coca-cola-aliado-combatir-cancer.html",
+			"path": "https://www.elespanol.com/ciencia/salud/20160415/117488292_0.html",
 			"type": "iframe",
 			"source_name": "Cocacola como aliado para tratar el cáncer",
-			"source_url": "https://www.noticias.universia.es/cultura/noticia/2015/09/03/1130717/demuestran-coca-cola-aliado-combatir-cancer.html",
+			"source_url": "https://www.elespanol.com/ciencia/salud/20160415/117488292_0.html",
 			"secure": false,
 			"true_or_false": false,
 			"score": 10,
